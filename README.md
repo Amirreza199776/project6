@@ -5,4 +5,4 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
 - [comp1238](comp1238.md)
-- (https://github.com/Amirreza199776/project6)
+- [project6](https://github.com/Amirreza199776/project6)
